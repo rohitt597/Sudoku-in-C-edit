@@ -2,8 +2,7 @@
 # Grid Game
 
 ## Overview
-We! This game uses a two-dimense game is implemented in C and uses the ncurses library for terminal-based graphics. The primary goa
-
+We! This game uses a two-dimense game is implemented in C and uses the ncurses library for terminal-based
 ## Features
 - A playable Sudoku game with a 9x9 grid.
 - Pre-filled numbers and hints to assist the player.
