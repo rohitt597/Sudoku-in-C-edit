@@ -2,7 +2,7 @@
 # Grid Game
 
 ## Overview
-We! This game uses a two-dimensional grid to create an engaging and interactive Sudoku experience. The game is implemented in C and uses the ncurses library for terminal-based graphics. The primary goal is to fill the grid following Sudokion.
+We! This game uses a two-dimensional grid to create an engaging and interactive Sudoku experience. The game is implemented in C and uses the ncurses library for terminal-based graphics. The primary goal is to fing Sudokion.
 
 ## Features
 - A playable Sudoku game with a 9x9 grid.
